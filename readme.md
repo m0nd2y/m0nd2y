@@ -1,4 +1,4 @@
-# m0nd2y(Lee Dong Jun)🇰🇷
+# 🇰🇷 m0nd2y(Lee Dong Jun)
 <br>
 
 ### 👨‍🎓EDUCATION👨‍🎓
