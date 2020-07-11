@@ -1,5 +1,6 @@
 # 🇰🇷m0nd2y(Lee Dong Jun)🇰🇷
 
+<br><br>
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
 - [2016 ~ 2018] Kumpa Middle School
@@ -7,14 +8,14 @@
 
 ### 🏅AWARD🏅
 
-<strong>2019</strong>
+#### <strong>2019</strong>
 - HolyShield CTF [3rd place]
 - Information Security Competition [Excellence Award]
 - Gyeonggi-do Information Security Hackathon [Grand Prize]
 - Art hackathon [Excellence Award]
 - Harmony hackthon [3rd place]<br><br>
 
-<strong>2018</strong>
+#### <strong>2018</strong>
 - Cyber ​​Guardians League [2nd place]
 - If hackthon [2nd place]
 - Digital Health hackthon [3rd place]
