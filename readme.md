@@ -1,6 +1,6 @@
 # 🇰🇷m0nd2y(Lee Dong Jun)🇰🇷
-
 <br>
+
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
 - [2016 ~ 2018] Kumpa Middle School
