@@ -1,4 +1,4 @@
-### 🇰🇷m0nd2y(Lee Dong Jun)🇰🇷
+# 🇰🇷m0nd2y(Lee Dong Jun)🇰🇷
 
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
@@ -6,13 +6,15 @@
 - [2018 ~ 2021] Korea Digital Media High School (current) <br><br><br>
 
 ### 🏅AWARD🏅
-- 2019
+
+<strong>2019</strong>
 - HolyShield CTF [3rd place]
 - Information Security Competition [Excellence Award]
 - Gyeonggi-do Information Security Hackathon [Grand Prize]
 - Art hackathon [Excellence Award]
 - Harmony hackthon [3rd place]<br><br>
-- 2018
+
+<strong>2018</strong>
 - Cyber ​​Guardians League [2nd place]
 - If hackthon [2nd place]
 - Digital Health hackthon [3rd place]
