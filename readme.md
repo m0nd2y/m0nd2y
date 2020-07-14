@@ -47,6 +47,6 @@
 ### 🖥CONTACT🖥
 - portfolie : http://pwnable.co.kr
 - facebook  : http://www.facebook.com/m0nd2y
-- instagram : https://www.instagram.com/m0nd2y/
+- instagram : https://www.instagram.com/m0nd2y
 - emain     : ldj6192@gmail.com
 - kakaotalk : ldj6192
