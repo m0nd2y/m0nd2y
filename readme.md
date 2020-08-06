@@ -1,6 +1,15 @@
 # m0nd2y(Lee Dong Jun) 🇰🇷
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0nd2y)](https://github.com/m0nd2y)
+<br><br>
+
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/m0nd2y/)](https://www.facebook.com/m0nd2y/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/m0nd2y/)](https://twitter.com/m0nd2y/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldj6192@gmail.com)](mailto:ldj6192@gmail.com)
+
+
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
 - [2016 ~ 2018] Kumpa Middle School
