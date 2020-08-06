@@ -13,7 +13,7 @@
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
 - [2016 ~ 2018] Kumpa Middle School
-- [2018 ~ 2021] Korea Digital Media High School (current) <br><br><br>
+- [2018 ~ ] Korea Digital Media High School (current) <br><br><br>
 
 ### 🏅AWARD🏅
 
