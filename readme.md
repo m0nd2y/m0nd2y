@@ -13,9 +13,18 @@
 ### 👨‍🎓EDUCATION👨‍🎓
 - [2010 ~ 2016] Sawoo Elementary School
 - [2016 ~ 2018] Kumpa Middle School
-- [2018 ~ ] Korea Digital Media High School (current) <br><br><br>
+- [2018 ~ 2021] Korea Digital Media High School
+- [2021 ~ now] Korea University(current) <br><br><br>
 
 ### 🏅AWARD🏅
+
+#### <strong>2020</strong>
+- HackChamp junior CTF [Silver Award]
+- Andong University CTF [Excellence award]
+- Joongbu University CTF [5th place]
+- Information Security Competition [3rd place] (Invitational Team)
+- 15th Information Security Olympiad [Silver Award]
+- Cyber Operations Competition [Final List]<br>
 
 #### <strong>2019</strong>
 - HolyShield CTF [3rd place]
