@@ -44,7 +44,14 @@
 - DIS CTF [1st place]
 - 17th Hacking Camp [1st place]<br><br><br>
 
+### Experience
+- [2023.02 ~ ] Hardware Security Lab Undergraduate Research Student (Advisor : Junghee Lee)
+
+### Extracurricular Activities
+- [2022.03 ~ ] Cykor @KoreaUniv Member of security Research and Hacking Group
+
 ### 📖LECTURE📖
+- [2022.03 ~ ] 42seoul Cadet
 - [2019.04 ~ 2019.12] Cyber ​​Guardians Education Program
 - [2019.03 ~ 2020.01] Information Protection Gifted Education Center 6th
 - [2017.03 ~ 2018.01] Information Protection Gifted Education Center 4th
