@@ -11,14 +11,22 @@
 
 
 ### 👨‍🎓EDUCATION👨‍🎓
-- [2010 ~ 2016] Sawoo Elementary School
-- [2016 ~ 2018] Kumpa Middle School
+- [2021 ~ now] Korea University(current)
 - [2018 ~ 2021] Korea Digital Media High School
-- [2021 ~ now] Korea University(current) <br><br><br>
+- [2016 ~ 2018] Kumpa Middle School
+- [2010 ~ 2016] Sawoo Elementary School
+<br><br><br>
 
 ### 🏅AWARD🏅
 
-#### <strong>2020</strong>
+#### <strong>2021 ~ </strong>
+- Hacktheon 2023 [special award] (@CorKy)
+- zer0pts CTF 2022 [3rd place] (@CyKor)
+- Wooricon 2021 [finalist]
+- DevKor Hackathon 2021 [Encouragement Award] <br>
+
+#### <strong>2018 ~ 2020 </strong>
+[2020]
 - HackChamp junior CTF [Silver Award]
 - Andong University CTF [Excellence award]
 - Joongbu University CTF [5th place]
@@ -26,14 +34,14 @@
 - 15th Information Security Olympiad [Silver Award]
 - Cyber Operations Competition [Final List]<br>
 
-#### <strong>2019</strong>
+[2019]
 - HolyShield CTF [3rd place]
 - Information Security Competition [Excellence Award]
 - Gyeonggi-do Information Security Hackathon [Grand Prize]
 - Art hackathon [Excellence Award]
 - Harmony hackthon [3rd place]<br>
 
-#### <strong>2018</strong>
+[2018]
 - Cyber ​​Guardians League [2nd place]
 - If hackthon [2nd place]
 - Digital Health hackthon [3rd place]
@@ -45,17 +53,17 @@
 - 17th Hacking Camp [1st place]<br><br><br>
 
 ### Experience
-- [2023.02 ~ ] Hardware Security Lab Undergraduate Research Student (Advisor : Junghee Lee)
+- [2023.02 ~ ] Hardware Security Lab Undergraduate Research Student@Korea University (Advisor : Junghee Lee)
+- [2021.09 ~ 2021.12] Digital Forensic Research Center Intern@Korea University (Advisor : Professor SangJin Lee)
 
-### Extracurricular Activities
-- [2022.03 ~ ] Cykor @KoreaUniv Member of security Research and Hacking Group
-
-### 📖LECTURE📖
-- [2022.03 ~ ] 42seoul Cadet
-- [2019.04 ~ 2019.12] Cyber ​​Guardians Education Program
-- [2019.03 ~ 2020.01] Information Protection Gifted Education Center 6th
-- [2017.03 ~ 2018.01] Information Protection Gifted Education Center 4th
-- [2012.03 ~ 2015.01] Gimpo Education Support Agency, Affiliated Gifted Education Center<br><br><br>
+### EXTRACURRICULAR ACTIVITIES
+- [2023.07 ~ ] Best of The Best 12th, Vulnerability Analysis Track Trainee @KITRI
+- [2022.03 ~ ] Cykor Member of security Research and Hacking Group @KoreaUniv
+- [2022.03 ~ 2023.03] 42-Seoul 6th year of Cadet @Innovation Academy 
+- [2019.04 ~ 2019.12] Cyber Guardians Education Program @KITRI
+- [2019.03 ~ 2020.01] Information Protection Gifted Education Center 6th @SWU
+- [2017.03 ~ 2018.01] Information Protection Gifted Education Center 4th @SWU
+- [2012.03 ~ 2015.01] Gimpo Education Support Agency, Affiliated Gifted Education Center
 
 ### 🎓CERTIFICATE🎓
 - [2020.07] Information Device Operation Technician
