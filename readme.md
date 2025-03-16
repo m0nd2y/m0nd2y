@@ -14,7 +14,7 @@
 ### Korea University
 - **Undergraduate Student** (March 2021 – February 2025)  
 - **Bachelor of Cyber Defense**  
-- **GPA**: 4.26/4.5  
+- **GPA**: 4.26/4.5 (Graduated first class honor)
 
 ### Korea Digital Media High School 
 - **High School Graduate** (March 2018 – February 2021)  
